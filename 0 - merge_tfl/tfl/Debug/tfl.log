@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (tflDepthToPoints.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  dllmain.cpp
+  tflDepthToPoints.cpp
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtopoints.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  tflDepthToRGB.cpp
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  tflNoise.cpp
+  Generating Code...
+     Creating library D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Debug\tfl.lib and object D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Debug\tfl.exp
+  tfl.vcxproj -> D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Debug\tfl.dll

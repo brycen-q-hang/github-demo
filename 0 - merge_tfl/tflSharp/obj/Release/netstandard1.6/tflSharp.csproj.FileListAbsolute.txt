@@ -1,0 +1,8 @@
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\bin\Release\netstandard1.6\tflSharp.deps.json
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\bin\Release\netstandard1.6\tflSharp.dll
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\bin\Release\netstandard1.6\tflSharp.pdb
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\obj\Release\netstandard1.6\tflSharp.csproj.CoreCompileInputs.cache
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\obj\Release\netstandard1.6\tflSharp.AssemblyInfo.cs
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\obj\Release\netstandard1.6\tflSharp.dll
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\obj\Release\netstandard1.6\tflSharp.pdb
+D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tflSharp\obj\Release\netstandard1.6\tflSharp.csprojAssemblyReference.cache
