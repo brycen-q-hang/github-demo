@@ -1,0 +1,10 @@
+﻿  Sample_tflNoiseDetection.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\Sample_tflNoiseDetection\Sample_tflNoiseDetection.cpp(45,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\Sample_tflNoiseDetection\Sample_tflNoiseDetection.cpp(50,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\Sample_tflNoiseDetection\Sample_tflNoiseDetection.cpp(55,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sample_tflNoiseDetection.vcxproj -> C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\x64\Release\Sample_tflNoiseDetection.exe

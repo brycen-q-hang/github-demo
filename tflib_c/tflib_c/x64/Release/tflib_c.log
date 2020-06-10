@@ -1,0 +1,28 @@
+﻿  ExpiryDate.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\ExpiryDate.cpp(28,1): warning C4273: 'TFL_Common::ClearExpiryDate': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflLicense.h(79,22): message : see previous definition of 'ClearExpiryDate'
+  tflColorMapping.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5058,1): warning C4273: 'TFL_Common::DepthToRainbow': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(94,38): message : see previous definition of 'DepthToRainbow'
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5119,1): warning C4273: 'TFL_Common::DepthToGray': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(104,39): message : see previous definition of 'DepthToGray'
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5146,1): warning C4273: 'TFL_Common::GetRGBSpect': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(109,38): message : see previous definition of 'GetRGBSpect'
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5190,1): warning C4273: 'TFL_Common::GetGrayScaleSpect': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(110,38): message : see previous definition of 'GetGrayScaleSpect'
+  tflDepthPCD.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflDepthPCD.cpp(92,1): warning C4273: 'TFL_Common::DepthToPCD': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(75,33): message : see previous definition of 'DepthToPCD'
+  tflLicense.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflLicense.cpp(15,1): warning C4273: 'TFL_Common::IsTrialExpired': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(107,38): message : see previous definition of 'IsTrialExpired'
+  tflNoiseDetection.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflNoiseDetection.cpp(105,1): warning C4273: 'TFL_Common::MarkPCDNoise': inconsistent dll linkage
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(84,33): message : see previous definition of 'MarkPCDNoise'
+     Creating library C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\x64\Release\tflib_c.lib and object C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\x64\Release\tflib_c.exp
+  Generating code
+  1 of 41 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tflib_c.vcxproj -> C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\x64\Release\tflib_c.dll
