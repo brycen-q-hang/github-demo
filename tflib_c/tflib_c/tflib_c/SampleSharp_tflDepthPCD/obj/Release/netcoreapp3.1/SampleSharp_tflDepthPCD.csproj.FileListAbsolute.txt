@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.exe
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.deps.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.runtimeconfig.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.runtimeconfig.dev.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.dll
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\bin\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.pdb
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.AssemblyInfo.cs
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.dll
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.pdb
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.genruntimeconfig.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflDepthPCD\obj\Release\netcoreapp3.1\SampleSharp_tflDepthPCD.csprojAssemblyReference.cache

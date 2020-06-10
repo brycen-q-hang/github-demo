@@ -1,0 +1,7 @@
+﻿  Sample_tflColorMapping.cpp
+C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\Sample_tflColorMapping\Sample_tflColorMapping.cpp(25,15): warning C4101: 'pcdFullBuff': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sample_tflColorMapping.vcxproj -> C:\Users\t_ai\Desktop\backup_tflib_c\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\x64\Release\Sample_tflColorMapping.exe
