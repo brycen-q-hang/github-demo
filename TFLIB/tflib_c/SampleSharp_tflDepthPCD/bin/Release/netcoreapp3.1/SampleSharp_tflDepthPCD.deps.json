@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SampleSharp_tflDepthPCD/1.0.0": {
+        "runtime": {
+          "SampleSharp_tflDepthPCD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleSharp_tflDepthPCD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

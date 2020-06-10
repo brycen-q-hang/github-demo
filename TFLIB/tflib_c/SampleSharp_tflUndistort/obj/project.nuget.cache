@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jp+WQ4VCn/l1tUMinduKrS/ewKGj4pZmhauTIF4NFQUH/N7WUOo4XpdlBjlbHW7Zozg4nK8rgioQ1p+fkc4BAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t_ai\\Desktop\\tflib_c_v_loc_theFirst\\tflib_c\\SampleSharp_tflUndistort\\SampleSharp_tflUndistort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t_ai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

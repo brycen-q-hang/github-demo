@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.exe
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.deps.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.runtimeconfig.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.runtimeconfig.dev.json
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.dll
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\bin\Release\netcoreapp3.1\SampleSharp_tflColorMapping.pdb
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.AssemblyInfo.cs
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.dll
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.pdb
+C:\Users\asus\Desktop\BVN\tflib_c_31052020_16h20\tflib_c\tflib_c\SampleSharp_tflColorMapping\obj\Release\netcoreapp3.1\SampleSharp_tflColorMapping.genruntimeconfig.cache

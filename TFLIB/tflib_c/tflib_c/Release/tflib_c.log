@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  dllmain.cpp
+  ExpiryDate.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\ExpiryDate.cpp(28,1): warning C4273: 'TFL::ClearExpiryDate': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflLicense.h(79,22): message : see previous definition of 'ClearExpiryDate'
+  tflColorMapping.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5042,1): warning C4273: 'TFL::DepthToRainbow': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(96,38): message : see previous definition of 'DepthToRainbow'
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5100,1): warning C4273: 'TFL::DepthToGray': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(106,39): message : see previous definition of 'DepthToGray'
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5144,1): warning C4273: 'TFL::GetRGBSpect': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(111,38): message : see previous definition of 'GetRGBSpect'
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflColorMapping.cpp(5186,1): warning C4273: 'TFL::GetGrayScaleSpect': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(112,38): message : see previous definition of 'GetGrayScaleSpect'
+  tflDepthPCD.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflDepthPCD.cpp(92,1): warning C4273: 'TFL::DepthToPCD': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(76,33): message : see previous definition of 'DepthToPCD'
+  tflLicense.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflLicense.cpp(15,1): warning C4273: 'TFL::IsTrialExpired': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(109,38): message : see previous definition of 'IsTrialExpired'
+  tflNoiseDetection.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflNoiseDetection.cpp(106,1): warning C4273: 'TFL::MarkPCDNoise': inconsistent dll linkage
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflib_c.h(86,33): message : see previous definition of 'MarkPCDNoise'
+  tflUndistort_org.cpp
+C:\Users\v_loc\Máy tính\Hang\tflib_c_02062020_17h45\tflib_c_01062020_08h05\tflib_c_31052020_16h20\tflib_c\tflib_c\tflib_c\tflUndistort_org.cpp(8,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
