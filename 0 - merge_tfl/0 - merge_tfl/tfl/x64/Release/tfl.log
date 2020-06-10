@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (tflDepthToPoints.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tflDepthToPoints.cpp
+     Creating library D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\x64\Release\tfl.lib and object D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\x64\Release\tfl.exp
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tfl.vcxproj -> D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\x64\Release\tfl.dll

@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  tflDepthToPoints.cpp
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtopoints.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  tflDepthToRGB.cpp
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\tfl\tfldepthtorgb.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  tflNoise.cpp
+     Creating library D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Release\tfl.lib and object D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Release\tfl.exp
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tfl.vcxproj -> D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\0 - merge_tfl\Release\tfl.dll

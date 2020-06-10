@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.18362.0
+Debug|Win32|D:\Working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\|

@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  tflDepthToPoints.cpp
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(8): error C3646: 'Vec3': unknown override specifier
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(8): error C2059: syntax error: '*'
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(94): error C2440: '=': cannot convert from 'Vec3 *' to 'int *'
+  d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(94): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(126): error C2440: 'return': cannot convert from 'int *' to 'Vec3 *'
+  d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(126): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.cpp(130): error C2084: function 'void ReleaseDepthRGBHandler(void)' already has a body
+  d:\working\fpga3\tof_l\tof_streamer_win\tof_system v1.0\5 - tof-lib_v1.0\2 - brc_tfl_depthtopoints\tfldepthtopoints\tfldepthtopoints.h(18): note: see previous definition of 'ReleaseDepthRGBHandler'
+  Generating Code...
