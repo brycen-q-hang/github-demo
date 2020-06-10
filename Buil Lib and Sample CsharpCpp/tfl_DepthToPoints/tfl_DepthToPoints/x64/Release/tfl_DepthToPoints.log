@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  tfl_DepthToPoints.cpp
+     Creating library C:\Users\t_ai\Desktop\tfl_DepthToPoints\x64\Release\tfl_DepthToPoints.lib and object C:\Users\t_ai\Desktop\tfl_DepthToPoints\x64\Release\tfl_DepthToPoints.exp
+  Generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tfl_DepthToPoints.vcxproj -> C:\Users\t_ai\Desktop\tfl_DepthToPoints\x64\Release\tfl_DepthToPoints.dll
