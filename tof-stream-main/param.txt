@@ -1,0 +1,11 @@
+IR
+checked
+checked
+off
+checked
+1317
+checked
+2047
+300mm-1000mm
+326
+RAINBOW
